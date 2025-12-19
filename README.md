@@ -22,7 +22,7 @@ ElainaBot 是一个基于 Python 的 QQ 官方机器人框架，支持WH WS连�
 
 如果你在使用过程中遇到问题或有任何建议，欢迎加入我们的交流群：
 
-**ElainaBot框架交流群：[631348711](https://qm.qq.com/q/qSErOcGf2o)**
+**Bot框架交流群：[287822526](https://qm.qq.com/q/wHBVN9hVks)**
 
 
 ## 安装教程
@@ -35,8 +35,7 @@ ElainaBot 是一个基于 Python 的 QQ 官方机器人框架，支持WH WS连�
 1. Git Clone 项目
 
 ```bash
-git clone https://github.com/lengxi-root/ElainaBot.git
-git clone https://gitee.com/lengxi-root/ElainaBot.git
+git clone https://github.com/TenYearsPro/ElainaBot.git
 cd ElainaBot
 ```
 
